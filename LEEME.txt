@@ -1,0 +1,11 @@
+
+Par que me funcione todo he tenido que hacer:
+
+sudo gem install base32
+sudo apt install zsh
+pip3 install dnspython --upgrade
+pip3 install ecdsa
+
+
+python3 -m http.server
+./run-demos.sh
